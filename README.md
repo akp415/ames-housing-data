@@ -1,2 +1,2 @@
 # ames-housing-data
-Predicting house prices using the Ames housing data through complex feature engineering and machine learning
+Predicting house prices using the openly available Ames housing data through complex feature engineering and machine learning
